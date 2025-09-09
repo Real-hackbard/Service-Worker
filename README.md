@@ -55,7 +55,7 @@ The Services snap-in, built upon [Microsoft Management Console](https://en.wikip
 * Export the list of services as a text file or as a [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) file
 
 ### Command line:
-The [command-line](https://en.wikipedia.org/wiki/Command-line_interface) tool to manage Windows services is sc.exe. It is available for all versions of Windows NT. This utility is included with Windows XP[8] and later[9] and also in [ReactOS](https://en.wikipedia.org/wiki/ReactOS).
+The [command-line](https://en.wikipedia.org/wiki/Command-line_interface) tool to manage Windows services is sc.exe. It is available for all versions of Windows NT. This utility is included with Windows XP[8] and later and also in [ReactOS](https://en.wikipedia.org/wiki/ReactOS).
 
 The sc command's scope of management is restricted to the local computer. However, starting with [Windows Server 2003](https://en.wikipedia.org/wiki/Windows_Server_2003), not only can sc do all that the Services snap-in does, but it can also install and uninstall services.
 The sc command duplicates some features of the net command.
